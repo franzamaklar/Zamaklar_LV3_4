@@ -25,7 +25,7 @@
                      <option value="Kristina">Kristina</option>
                     <option value="Magdalena">Magdalena</option>
                     <option value="Bruno">Bruno</option>
-                    <option value="Bruno">Fran</option>
+                    <option value="Fran">Fran</option>
                 </select>
                 <input class="mx-1 mt-2 mb-2" type="text" name="obavljeni_poslovi" id="obavljeni_poslovi" placeholder="Done tasks">
                 <input class="mx-1 mt-2 mb-2" type="date" name="datum_pocetka" id="datum_pocetka" placeholder="Entry date">
